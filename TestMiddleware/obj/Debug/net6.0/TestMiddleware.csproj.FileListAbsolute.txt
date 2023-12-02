@@ -1,0 +1,12 @@
+/Users/evandro/Documents/DEV/Dotnet Projects/ApiKeyWithMiddleware/TestMiddleware/bin/Debug/net6.0/TestMiddleware.deps.json
+/Users/evandro/Documents/DEV/Dotnet Projects/ApiKeyWithMiddleware/TestMiddleware/bin/Debug/net6.0/TestMiddleware.dll
+/Users/evandro/Documents/DEV/Dotnet Projects/ApiKeyWithMiddleware/TestMiddleware/bin/Debug/net6.0/TestMiddleware.pdb
+/Users/evandro/Documents/DEV/Dotnet Projects/ApiKeyWithMiddleware/TestMiddleware/obj/Debug/net6.0/TestMiddleware.csproj.AssemblyReference.cache
+/Users/evandro/Documents/DEV/Dotnet Projects/ApiKeyWithMiddleware/TestMiddleware/obj/Debug/net6.0/TestMiddleware.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evandro/Documents/DEV/Dotnet Projects/ApiKeyWithMiddleware/TestMiddleware/obj/Debug/net6.0/TestMiddleware.AssemblyInfoInputs.cache
+/Users/evandro/Documents/DEV/Dotnet Projects/ApiKeyWithMiddleware/TestMiddleware/obj/Debug/net6.0/TestMiddleware.AssemblyInfo.cs
+/Users/evandro/Documents/DEV/Dotnet Projects/ApiKeyWithMiddleware/TestMiddleware/obj/Debug/net6.0/TestMiddleware.csproj.CoreCompileInputs.cache
+/Users/evandro/Documents/DEV/Dotnet Projects/ApiKeyWithMiddleware/TestMiddleware/obj/Debug/net6.0/TestMiddleware.dll
+/Users/evandro/Documents/DEV/Dotnet Projects/ApiKeyWithMiddleware/TestMiddleware/obj/Debug/net6.0/refint/TestMiddleware.dll
+/Users/evandro/Documents/DEV/Dotnet Projects/ApiKeyWithMiddleware/TestMiddleware/obj/Debug/net6.0/TestMiddleware.pdb
+/Users/evandro/Documents/DEV/Dotnet Projects/ApiKeyWithMiddleware/TestMiddleware/obj/Debug/net6.0/ref/TestMiddleware.dll

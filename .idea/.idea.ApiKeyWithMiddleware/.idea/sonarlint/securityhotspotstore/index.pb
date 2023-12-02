@@ -1,0 +1,31 @@
+
+X
+(ApiKeyWithMiddleware/ApiKeyMiddleware.cs,a/9/a95e5968ef9fade078116a9c4540268905baa935
+O
+ApiKeyWithMiddleware/Program.cs,b/c/bca32742f481aaffb198f2145b76e08ee1800f11
+m
+=ApiKeyWithMiddleware/Controllers/WeatherForecastController.cs,4/8/4881af24e28cdb4ec298f0d345b41fb803dc0f08
+a
+1ApiKeyWithMiddleware/ApiKeyAuthorizationFilter.cs,3/c/3c6ced531dbff8289df07dbb3c351c60483529c9
+U
+%ApiKeyWithMiddleware/appsettings.json,5/b/5b7f10ecd39957cf17947d99454b142f938b0e64
+[
++ApiKeyWithMiddleware/ApiKeyMiddlewareOld.cs,e/6/e6090ed1a4cb7841a0528c60dc5e3ac48f33803f
+T
+$ApiKeyMiddleware/ApiKeyMiddleware.cs,3/e/3ea38f6655ce3c5d0cb6dfe34e8c9ec3be144e53
+d
+4ApiKeyMiddleware/ApiKeyMiddleware/ApiKeyAttribute.cs,d/9/d9cfe2eb83696c0c0da494dd33ead2df3565ca8b
+c
+3ApiKeyMiddleware/ApiKeyMiddleware/ApiKeySettings.cs,6/b/6b7c578cfaa129e638081bbb87ccc34fce19788e
+r
+BApiKeyMiddleware/obj/Debug/net6.0/ApiKeyMiddleware.AssemblyInfo.cs,a/8/a8186424d4bbdff32978438136f64f9481eafd29
+X
+(ApiKeyMiddleware/ApiKeyMiddleware.csproj,8/c/8c5b79e922dea78b3bee2e12feca7779b36a2de4
+H
+ApiKeyWithMiddleware.sln,c/b/cb4fbbdba80c6b85e1ff07149e31b0f0f6c93d39
+H
+TestMiddleware/Class1.cs,2/0/202e08d8aab246b8ca90c20c3e4371c8ffe7c19f
+P
+ TestMiddleware/TestMiddleware.cs,b/e/be6373381614f6d49dc6e7c2592441beed4b1755
+W
+'ApiKeyWithMiddleware/WeatherForecast.cs,b/f/bff6af88966ebcd787935f373e9f8b1a1ad4f8c0
